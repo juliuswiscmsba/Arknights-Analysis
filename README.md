@@ -1,12 +1,15 @@
 # Arknights-Analysis
 
 Databrick Notebooks: 
+
 https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1987513953073767/945112846194735/5135424879651153/latest.html
 
 Tablau Dashboard: 
+
 https://public.tableau.com/app/profile/mingtsung7085/viz/Arknights_Dashboard/ArknightsDashboard?publish=yes
 
 Data Source: 
+
 https://www.kaggle.com/datasets/victorsoeiro/arknights-operators
 
 
