@@ -33,8 +33,8 @@
 
 * Gender: Male, Conviction 
 
-  * Concern: the majority of the player is male and they much prefer female characters to male and conviction.
+  * Concern: The majority of the player is male and they much prefer female characters to male and conviction.
 
 * Stars: 1, 2, 3 
 
-  * Players love strong characters. if the new character is weak, they prefer not to pay for it.
+  * Concern: Players love strong characters. if the new character is weak, they prefer not to pay for it.
